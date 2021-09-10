@@ -9,7 +9,9 @@ How to contribute to open source- First contribution practise
 Repo for you to raise a Pull Request for practice.
 
 **Just add your name to the alphabetical list and optionally, a link to your GitHub account**
+
 **NAME**
+
 **EDGAR ASIIMWE - https://github.com/edger-asiimwe**
 
 ## How to contribute
