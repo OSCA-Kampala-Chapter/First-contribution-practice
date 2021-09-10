@@ -14,7 +14,7 @@ YAHAYA HYELLAMODA YOHANNA
 
 ## Github Account
 
-[https://github.com/yasholma](https://github.com/yasholma)
+[Yahaya Hyellamoda Yohanna](https://github.com/yasholma)
 
 ## How to contribute
 
