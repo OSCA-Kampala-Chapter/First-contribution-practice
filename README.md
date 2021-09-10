@@ -1,6 +1,6 @@
 # First-contribution-practice
-How to contribute to open source- First contribution practise
 
+How to contribute to open source- First contribution practise
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
@@ -8,7 +8,13 @@ How to contribute to open source- First contribution practise
 
 Repo for you to raise a Pull Request for practice.
 
-**Just add your name to the alphabetical list and optionally, a link to your GitHub account**
+## Name
+
+YAHAYA HYELLAMODA YOHANNA
+
+## Github Account
+
+[https://github.com/yasholma](https://github.com/yasholma)
 
 ## How to contribute
 
@@ -33,7 +39,7 @@ Questions can be asked by raising an `Issue`.
 - switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
 
 ```
-  cd First-contribution-practice  
+  cd First-contribution-practice
 ```
 
 - Make a new branch. Your name would make a good branch because it's unique
@@ -54,6 +60,7 @@ Questions can be asked by raising an `Issue`.
 ```
   git add README.md
 ```
+
 or
 
 ```
