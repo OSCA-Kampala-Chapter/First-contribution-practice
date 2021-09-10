@@ -44,7 +44,7 @@ Questions can be asked by raising an `Issue`.
 
 - Open the file `README.md`
 
-- #### Add your name to the section that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page.
+- [Rodrick Calvin Wamala](https://github.com/rodrickcalvin)
 
 - For example ,
   `- [Full Name](https://github.com/your-username)`
