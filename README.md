@@ -9,6 +9,8 @@ How to contribute to open source- First contribution practise
 Repo for you to raise a Pull Request for practice.
 
 **Just add your name to the alphabetical list and optionally, a link to your GitHub account**
+##NAME
+**EDGAR ASIIMWE - https://github.com/edger-asiimwe
 
 ## How to contribute
 
@@ -47,7 +49,7 @@ Questions can be asked by raising an `Issue`.
 - #### Add your name to the section that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page.
 
 - For example ,
-  Edgar Asiimwe  -  https://github.com/edger-asiimwe
+  `- [Full Name](https://github.com/your-username)`
 
 - Stage your changes
 
