@@ -12,7 +12,7 @@ Questions can be asked by raising a `Discussion` with a `Q&A` tag.
 
 Issues arising from using this repository's code can be outlined under the `Issues` tab
 
-**Just add your name to the alphabetical list and optionally, a link to your GitHub account**
+**Just add your name to the alphabetical list in [Contributors.md](./Contributors.md) and optionally, a link to your GitHub account**
 
 # How to contribute
 
