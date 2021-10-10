@@ -4,7 +4,7 @@
 #
 
 # First-contributions-practice
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below to practise making a Pull Request(PR).
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below to practise making a [Pull Request(PR)](https://github.com/OSCA-Kampala-Chapter/First-contribution-practice/compare).
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
