@@ -15,7 +15,8 @@ Issues arising from using this repository's code can be outlined under the [Issu
 # How to contribute
 
 <img align="right" width="300" src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1633880626/C1F78D9F-38A5-4DD2-80C8-A94E231CD50C_1_201_a_k7hvbu.jpg" alt="fork this repository" />
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+
+#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)
 
 ## Fork this repository
 
