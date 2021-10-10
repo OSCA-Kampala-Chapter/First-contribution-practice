@@ -8,9 +8,9 @@ This project aims to simplify and guide the way beginners make their first contr
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
-Questions can be asked by raising a `Discussion` with a `Q&A` tag.
+Questions can be asked by raising a [Discussion](https://github.com/OSCA-Kampala-Chapter/First-contribution-practice/discussions) with a `Q&A` Category tag. Click [New Discussion](https://github.com/OSCA-Kampala-Chapter/First-contribution-practice/discussions/new)
 
-Issues arising from using this repository's code can be outlined under the `Issues` tab
+Issues arising from using this repository's code can be outlined under the [Issues](https://github.com/OSCA-Kampala-Chapter/First-contribution-practice/discussions) tab
 
 **Just add your name to the alphabetical list in [Contributors.md](./Contributors.md) and optionally, a link to your GitHub account**
 
