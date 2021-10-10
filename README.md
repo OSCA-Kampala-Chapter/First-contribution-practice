@@ -24,11 +24,11 @@ Issues arising from using this repository's code can be outlined under the `Issu
 
 ## How to clone repo and make changes locally
 
-<img align="right" width="300" src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1633873938/Screenshot_2021-10-10_at_16.51.43_pfy1ae.png" alt="clone this repository" />
+Click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
 
-```
-  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
-```
+<img align="right" width="300" src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1633874531/Screenshot_2021-10-10_at_17.01.52_sdbuzh.png" alt="clone this repository" />
+
+Click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
 
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer
 
