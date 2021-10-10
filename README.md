@@ -1,110 +1,108 @@
-# First-contribution-practice
-How to contribute to open source 
-
-
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+#
 
-# Practice Pull Requests
+# First-contributions-practice
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below to practise making a Pull Request(PR).
 
-Repo for you to raise a Pull Request for practice.
-
-**Just add your name to the alphabetical list and optionally, a link to your GitHub account**
-
-## How to contribute
-
-1. Fork the project
-2. Make any changes in your forked repo
-3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
+#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
 Questions can be asked by raising a `Discussion` with a `Q&A` tag.
 
 Issues arising from using this repository's code can be outlined under the `Issues` tab
 
-## How to clone repo and make changes locally
+**Just add your name to the alphabetical list and optionally, a link to your GitHub account**
+
+# How to contribute
+
+## Fork this repository
+
+Fork this repository by clicking on the fork button on the top of this page.
+This will create a copy of this repository in your account.
+
+## Clone forked repository and make changes locally
+<img align="right" width="300" src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1633874531/Screenshot_2021-10-10_at_17.01.52_sdbuzh.png" alt="clone this repository" />
 
 Click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
 
-<img align="right" width="300" src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1633874531/Screenshot_2021-10-10_at_17.01.52_sdbuzh.png" alt="clone this repository" />
-
-- Using git on your local machine. Do this to download the forked copy of this repo to your computer
+Open a terminal and run the following git command:
 
 ```
   git clone https://github.com/yourGithubUsername/First-contribution-practice.git
 ```
+This will download the forked copy of this repo to your computer
 
-- switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
+
+## Create a branch 
+
+Switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
+
+Open the file `README.md` in your text editor such as VS Code
 
 ```
   cd First-contribution-practice  
 ```
+Now create a branch using the `git checkout` command:
 
-- Make a new branch. Your name would make a good branch because it's unique
+Your name would make a good branch because it's unique
 
 ```
   git checkout -b <name of new branch>
 ```
 
-- Open the file `README.md`
-## Name
-
-
-
-- #### Add your name to the section that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page.
-- [Benjamin Rukundo](https://github.com/rukundob451)
-- [Hassan Bahati Mukisa](https://github.com/HassanBahati)
-- [Rodrick Calvin Wamala](https://github.com/rodrickcalvin)
-PATRICK FITZ
-
-
-- For example ,
-  `- [Full Name](https://github.com/your-username)`
-
-
-- Stage your changes
+For example:
 
 ```
-  git add README.md
+git checkout -b add-jerry-abraham
 ```
-or
+(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-```
-  git add .
-```
+## Make necessary changes and commit those changes
 
-- Commit the changes
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
-```
-  git commit -m "Add <your-github-username>"
-```
-
-- Check the status of your repository
+Add those changes to the branch you just created using the `git add` command:
 
 ```
-  git status
+git add Contributors.md
 ```
 
-- Pushing your repository to github
+Now commit those changes using the `git commit` command:
 
 ```
-  git push origin <name of your branch>
+git commit -m "Add <your-name> to Contributors list"
 ```
 
-or
+replacing `<your-name>` with your name.
+
+## Push changes to GitHub
+
+Push your changes using the command `git push`:
 
 ```
-  git branch -M main
-  git push -u origin main
+git push origin <add-your-branch-name>
 ```
 
-- Navigate to your fork, on the top of the files section you'll notice a new section containing, a contribute button!
-- Click on the contribute button, it will open a drop down, click the pull request button on the drop down
-  Note: A pull request allows your changes to be merged with the original project.
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-- Wait for your changes to be merged
+## Submit your changes for review
 
-Hurray! You successfully made a contribution!
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+
+Now submit the pull request.
+
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+## Where to go from here?
+
+Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+
+Celebrate your contribution and share it with your friends and followers
+
+Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+
 
 ---
 
