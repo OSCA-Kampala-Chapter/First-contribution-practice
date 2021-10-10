@@ -1,8 +1,10 @@
 # First-contribution-practice
-How to contribute to open source- First contribution practise
+How to contribute to open source 
 
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 # Practice Pull Requests
 
@@ -16,9 +18,13 @@ Repo for you to raise a Pull Request for practice.
 2. Make any changes in your forked repo
 3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
 
-Questions can be asked by raising an `Issue`.
+Questions can be asked by raising a `Discussion` with a `Q&A` tag.
+
+Issues arising from using this repository's code can be outlined under the `Issues` tab
 
 ## How to clone repo and make changes locally
+
+<img align="right" width="300" src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1633873724/Screenshot_2021-10-10_at_16.47.03_gzlk0q.png" alt="clone this repository" />
 
 ```
   click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
