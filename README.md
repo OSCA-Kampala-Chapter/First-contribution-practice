@@ -103,11 +103,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" /> 
+<img style="float: right;" src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1633882933/F36B5B3F-A5EB-40F0-87D9-E0CA9F4DDCEC_1_201_a_to6ttr.jpg" alt="create a pull request" /> 
 
 Now submit the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1633882952/Screenshot_2021-10-10_at_19.19.07_vecyri.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
