@@ -45,7 +45,8 @@ git clone https://github.com/this-is-you/first-contributions.git
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch 
-
+It is very easy to use github for desktop if it is already installed on your machine. If not, then use the process below.
+ 
 Switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
 
 Open the file `README.md` in your text editor such as VS Code
