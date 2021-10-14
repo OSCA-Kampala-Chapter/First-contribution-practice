@@ -48,7 +48,7 @@ Questions can be asked by raising an `Issue`.
 
 - For example ,
   `- [Full Name](https://github.com/your-username)`
-
+   -[Benjamin Rukundo](https://github.com/rukundob451)
 - Stage your changes
 
 ```
