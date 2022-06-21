@@ -8,4 +8,5 @@
 - [Nabil Lubega](https://github.com/nklubega)
 - [Pius Tumwebaze](https://github.com/Vladmir-dev)
 - [Rodrick Calvin Wamala](https://github.com/rodrickcalvin)
+- [Karan Chandekar](https://github.com/KaranChandekar)
 - PATRICK FITZ
