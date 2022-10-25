@@ -11,3 +11,4 @@
 - [Rodrick Calvin Wamala](https://github.com/rodrickcalvin)
 - [Karan Chandekar](https://github.com/KaranChandekar)
 - PATRICK FITZ
+- [Kisakye Moses](https://github.com/moses-kisakye)
