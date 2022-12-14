@@ -8,6 +8,7 @@
 - [Simon Peter Mujuni](https://github.com/sp-mujuni)
 - [Nabil Lubega](https://github.com/nklubega)
 - [Pius Tumwebaze](https://github.com/Vladmir-dev)
+- [Humphrey Okoth](https://github.com/humphreyokoth)
 - [Rodrick Calvin Wamala](https://github.com/rodrickcalvin)
 - [Karan Chandekar](https://github.com/KaranChandekar)
 - PATRICK FITZ
