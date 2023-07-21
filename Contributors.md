@@ -10,6 +10,7 @@
 - [Pius Tumwebaze](https://github.com/Vladmir-dev)
 - [Humphrey  Okoth](https://github.com/humphreyokoth)
 - [Fred Vuni](https://github.com/FREDVUNI)
+- [Nadine D.](https://github.com/ndnk27)
 - [Rodrick Calvin Wamala](https://github.com/rodrickcalvin)
 - [Karan Chandekar](https://github.com/KaranChandekar)
 - PATRICK FITZ
